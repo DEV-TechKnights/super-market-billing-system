@@ -16,7 +16,7 @@ create database bill
 select 'bill' then select 'imort' then browse to bill.sql.
 
 # step 4:
-after importing bill.sql open http://localhost/super-market-billing-system-master/  
+after importing bill.sql open http://localhost/super-market-billing-system-master/bill  
 default credentials for admin
 username: admin
 password: admin
