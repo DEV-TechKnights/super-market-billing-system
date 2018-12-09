@@ -1,0 +1,2 @@
+# super-market-billing-system
+The system helps the employees in easy bill calculation and providing an efficient customer service. The system also maintains the relation between shop keeper and supplier by auditing the records digitally (keeping track of bill paid and to be paid). we are concentrating more on implementing ERP software in super market and try to cover some part of functional areas.
